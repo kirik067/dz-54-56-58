@@ -1,0 +1,15 @@
+C:\Users\tvoag\Desktop\Rabota\git\C#\dz,54,56,\bin\Debug\net7.0\dz,54,56,.exe
+C:\Users\tvoag\Desktop\Rabota\git\C#\dz,54,56,\bin\Debug\net7.0\dz,54,56,.deps.json
+C:\Users\tvoag\Desktop\Rabota\git\C#\dz,54,56,\bin\Debug\net7.0\dz,54,56,.runtimeconfig.json
+C:\Users\tvoag\Desktop\Rabota\git\C#\dz,54,56,\bin\Debug\net7.0\dz,54,56,.dll
+C:\Users\tvoag\Desktop\Rabota\git\C#\dz,54,56,\bin\Debug\net7.0\dz,54,56,.pdb
+C:\Users\tvoag\Desktop\Rabota\git\C#\dz,54,56,\obj\Debug\net7.0\dz,54,56,.csproj.AssemblyReference.cache
+C:\Users\tvoag\Desktop\Rabota\git\C#\dz,54,56,\obj\Debug\net7.0\dz,54,56,.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tvoag\Desktop\Rabota\git\C#\dz,54,56,\obj\Debug\net7.0\dz,54,56,.AssemblyInfoInputs.cache
+C:\Users\tvoag\Desktop\Rabota\git\C#\dz,54,56,\obj\Debug\net7.0\dz,54,56,.AssemblyInfo.cs
+C:\Users\tvoag\Desktop\Rabota\git\C#\dz,54,56,\obj\Debug\net7.0\dz,54,56,.csproj.CoreCompileInputs.cache
+C:\Users\tvoag\Desktop\Rabota\git\C#\dz,54,56,\obj\Debug\net7.0\dz,54,56,.dll
+C:\Users\tvoag\Desktop\Rabota\git\C#\dz,54,56,\obj\Debug\net7.0\refint\dz,54,56,.dll
+C:\Users\tvoag\Desktop\Rabota\git\C#\dz,54,56,\obj\Debug\net7.0\dz,54,56,.pdb
+C:\Users\tvoag\Desktop\Rabota\git\C#\dz,54,56,\obj\Debug\net7.0\dz,54,56,.genruntimeconfig.cache
+C:\Users\tvoag\Desktop\Rabota\git\C#\dz,54,56,\obj\Debug\net7.0\ref\dz,54,56,.dll
